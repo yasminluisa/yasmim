@@ -1,0 +1,1 @@
+alert("⚠️COMO DISTRAIR UM COMÉDIA⚠️")
